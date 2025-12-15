@@ -1,6 +1,6 @@
 # UncertaintyMatters
 This repository contains the code for the paper 'Uncertainty Matters: Stable Conclusions Under Unstable
-Assessment of Fairness Results'.  
+Assessment of Fairness Results'.  This work was presented in AISTATS 2024 :)
 
 You can read the full paper [here](https://proceedings.mlr.press/v238/barrainkua24a/barrainkua24a.pdf).
 
